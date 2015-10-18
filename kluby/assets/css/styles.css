@@ -1,3 +1,5 @@
+@import url(http://fonts.googleapis.com/css?family=Lato:400,300,700,900&subset=latin,latin-ext);
+
 .video-container {
   position: relative;
   padding-bottom: 56.25%;
@@ -15,13 +17,13 @@
   height: 100%;
 }
 body {
-font-family: "Roboto";
+font-family: "Lato", Helvetica Neue, Helvetica, Arial, sans-serif;
   color: #666666;
   -webkit-font-smoothing: antialiased;
   background:#2c313d;
 }
 a {
-font-family: "Roboto";
+font-family: "Lato", Helvetica Neue, Helvetica, Arial, sans-serif;
   -webkit-font-smoothing: antialiased;
 }
 div.content {
@@ -536,7 +538,7 @@ section::after {
   z-index: 2;
 }
 .tp-caption {
-font-family: "Roboto";
+font-family: "Lato", Helvetica Neue, Helvetica, Arial, sans-serif;
   -webkit-font-smoothing: antialiased;
 }
 .tp-caption.large_white_bold {
